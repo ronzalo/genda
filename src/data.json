@@ -1,0 +1,16 @@
+{
+  "stores": [
+    {
+      "name": "The Boss - Hotel W (Piso 3)",
+      "address": "Isidora Goyenechea # 3000 Piso 3, local 302, Las Condes, Santiago, Chile",
+      "phone": "2 2245 6120 - 2 2245 6130",
+      "coords": { "lat": -33.4138967, "lng": -70.6005687 }
+    },
+    {
+      "name": "The Boss - Andrés Bello",
+      "address": "Andrés Bello # 2115 L. 101, Providencia, Santiago, Chile",
+      "phone": "2 2752 7967 - 2 2752 7967",
+      "coords": { "lat": -33.4212539, "lng": -70.614557 }
+    }
+  ]
+}
